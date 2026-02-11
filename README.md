@@ -16,7 +16,7 @@
   ✨ Creating bugs since 2019<br>
   📚 I'm currently learning Clean Architecture, Docker, CI/CD, and improving my English for technical interviews<br>
   🎯 Goals: build production-ready fullstack apps (Java/Python + React), write more tests, and ship more demos<br>
-  🎲 Fun fact: I love electronic music concerts and I play padel
+  🎲 Fun fact: I love electronic music concerts and I enjoy going to the gym. 
 </p>
 
 ###
